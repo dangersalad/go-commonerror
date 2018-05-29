@@ -1,4 +1,4 @@
-package errorinterfaces
+package commonerror
 
 type timeout interface {
 	Timeout() bool

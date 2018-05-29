@@ -1,4 +1,4 @@
-package errorinterfaces
+package commonerror
 
 type temporary interface {
 	Temporary() bool

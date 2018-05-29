@@ -1,3 +1,3 @@
-// Package errorinterfaces allows for handling
+// Package commonerror allows for handling
 // common error interfaces for getting more info
-package errorinterfaces // import "github.com/dangersalad/go-errorinterfaces"
+package commonerror // import "github.com/dangersalad/go-errorinterfaces"

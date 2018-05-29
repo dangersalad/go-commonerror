@@ -1,4 +1,4 @@
-package errorinterfaces
+package commonerror
 
 type err interface {
 	Err() error
